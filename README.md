@@ -11,4 +11,4 @@ Results:
 - Ωm prediction error: ~4%
 - σ8 prediction error: ~2%
 
-The full methodology and results are documented in the report
+The full methodology and results are documented in the report.
